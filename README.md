@@ -1,2 +1,2 @@
-# La-Caja
+# La Caja
 Code Challenge
